@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#1 {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#2{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#canvas {
+    border: 12px black groove;
+
+}
+#loklok{
+    width: 150;
+    height: 90;
+}
